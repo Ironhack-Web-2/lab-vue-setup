@@ -24,7 +24,7 @@
       <img :src="logoVue" alt="Logo Vue" class=" mx-auto pt-10 pb-3">
       <h1 class="text-center text-5xl pb-5 pt-5 font-bold">Welcome to Vue.js</h1>
       <h4 class="mx-auto text-center max-w-[40%] font-bold pb-6">Become a coding ninja with the fastest-growing JavaSript framework</h4>
-      <button class=" flex mx-auto rounded-full bg-[#34495E] p-1 pl-5 pr-5 mb-12 color: text-white">Awesome</button>
+      <button class=" flex mx-auto rounded-full bg-[#34495E] p-1 pl-5 pr-5 mb-3 color: text-white">Awesome</button>
     </header>
 
     <main class="flex justify-around flex-wrap">
