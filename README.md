@@ -49,13 +49,12 @@ Now that you've created the app, let's clean up the `App.Vue` file. Remove the i
 
 ```jsx
 <template>
-  <div id="app">
+  <div>
   </div>
 </template>
 
 <script>
   export default {
-    name: 'App',
   }
 </script>
 
