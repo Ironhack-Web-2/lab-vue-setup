@@ -27,7 +27,7 @@
       <button class=" flex mx-auto rounded-full bg-[#34495E] p-1 pl-5 pr-5 mb-3 color: text-white">Awesome</button>
     </header>
 
-    <main class="flex justify-around flex-wrap">
+    <main class="flex justify-around flex-wrap bg-[#39B983] p-8">
       <div :class="containers">
         <img :src="img1" alt="Performant Logo" class=" mx-auto ">
         <h4 class="text-2xl text-center font-medium pt-4 pb-3">Performant</h4>
@@ -50,10 +50,6 @@
 
 
 <style>
-   main{
-   padding: 7%;
-    background-color:  #39B983;
-   }
   .cajita{
     width: 25%;
     align-items: center;
